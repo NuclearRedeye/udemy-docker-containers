@@ -8,7 +8,7 @@ Overall the course was OK, too basic for me but the other team members I feel wo
 
 ## Chapter 3 Section 15
 
-The default `Dockerfile` has an error and will fail to work due to a node/npm path issue. You can resolve it by using a tagged release instead, e.g.1
+The default `Dockerfile` has an error and will fail to work due to a node/npm path issue. You can resolve it by using a tagged release instead, for example...
 
 ```Dockerfile
 FROM node:lts
